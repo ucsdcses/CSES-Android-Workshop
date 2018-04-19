@@ -8,7 +8,7 @@ Setting up Firebase...
 - Select the "Realtime Database" option
 ![Step 2](https://github.com/ucsdcses/CSES-Android-Workshop/blob/master/Part%202%20-%20Firebase%20Setup/f2.PNG)  
 
-- Click on "Connect to Firebase"
+- Click on "Connect to Firebase" <br />
 ![Step 3](https://github.com/ucsdcses/CSES-Android-Workshop/blob/master/Part%202%20-%20Firebase%20Setup/f3.PNG)  
 
 - Select "Create new Firebase project". Then click on "Connect to Firebase"  
