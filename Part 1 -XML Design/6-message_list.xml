@@ -1,0 +1,10 @@
+<ListView
+    android:id="@+id/messageListView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_above="@+id/linearLayout"
+    android:stackFromBottom="true"
+    android:divider="@android:color/transparent"
+    android:paddingBottom="64dp"
+    android:transcriptMode="alwaysScroll"
+    tools:listitem="@layout/item_message"/>
