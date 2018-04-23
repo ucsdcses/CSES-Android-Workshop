@@ -1,0 +1,2 @@
+private FirebaseStorage mFirebaseStorage;
+private StorageReference mStorageReference;
